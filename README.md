@@ -1,4 +1,4 @@
 Carly + Jason
 ================
 
-A site for Carly and Jason's wedding.
+A site for our wedding.
