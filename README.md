@@ -1,4 +1,4 @@
-carlyjasonforever
-=================
+jsnhff.github.io
+================
 
-Our wedding website.
+A site for Carly and Jason's wedding.
